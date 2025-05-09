@@ -7,7 +7,7 @@
              Shell.NavBarIsVisible="False"
              Title="HomeView">
 
-    <Grid>
+    <Grid CascadeInputTransparent="True">
         <ScrollView>
             <Grid RowDefinitions="Auto, Auto, Auto, *" Margin="12">
                 <!--top bar-->
@@ -101,13 +101,13 @@
         </ScrollView>
         
         <!---SEGMENTEDCONTROL-->
-        <Border StrokeShape="RoundRectangle 24"
+        <!--<Border StrokeShape="RoundRectangle 24"
                 StrokeThickness="0"
                 HeightRequest="60"
                 VerticalOptions="End"
                 BackgroundColor="Black"
                 Margin="12, 20">
             
-        </Border>
+        </Border>-->
     </Grid>
 </ContentPage>
