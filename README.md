@@ -1,7 +1,8 @@
-# MobileApp
+# MobileApp: Un Progetto in Fase di Sviluppo 🚧
 
-## Stato del Progetto 🚧
-**Attenzione**: Questo progetto è attualmente in fase di sviluppo e non è ancora completo. Alcune funzionalità potrebbero non essere disponibili o potrebbero essere soggette a modifiche.
+## Benvenuti! 👋
+
+Ciao a tutti! Sono Salisou Moussa, uno sviluppatore appassionato di tecnologia e design. Oggi voglio condividere con voi il mio progetto **MobileApp**, un'applicazione moderna e intuitiva attualmente in fase di sviluppo. Questo progetto è pensato per offrire un'interfaccia utente pulita e un'esperienza fluida su dispositivi mobili.
 
 ---
 
@@ -18,6 +19,7 @@
 ## Demo Animata 🎥
 
 Guarda la demo animata dell'app qui sotto:
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/salisou/OnlineCourseUIDesigns/main/OnlineVideo.gif" alt="Demo Video" />
 </div>
