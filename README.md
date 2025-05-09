@@ -1,20 +1,26 @@
 # MobileApp
 
+## Stato del Progetto 🚧
+**Attenzione**: Questo progetto è attualmente in fase di sviluppo e non è ancora completo. Alcune funzionalità potrebbero non essere disponibili o potrebbero essere soggette a modifiche.
+
+---
+
 ## Anteprima dell'App 📱
 
-### Home View
-![HomeView](https://github.com/salisou/OnlineCourseUIDesigns/blob/main/HomeView.png)
-
-### Detail View
-![DetailView](https://github.com/salisou/OnlineCourseUIDesigns/blob/main/DetailView.png)
+### Home View e Detail View
+<div align="center">
+    <img src="https://github.com/salisou/OnlineCourseUIDesigns/blob/main/HomeView.png" alt="HomeView" />
+    <img src="https://github.com/salisou/OnlineCourseUIDesigns/blob/main/DetailView.png" alt="DetailView" />
+</div>
 
 ---
 
 ## Demo Animata 🎥
 
 Guarda la demo animata dell'app qui sotto:
-
-![Demo Video](https://github.com/salisou/OnlineCourseUIDesigns/blob/main/OnlineVideo.gif)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/salisou/OnlineCourseUIDesigns/main/OnlineVideo.gif" alt="Demo Video" />
+</div>
 
 ---
 
